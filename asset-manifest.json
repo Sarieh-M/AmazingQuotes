@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AmazingQuotes/static/css/main.ae5f2267.css",
-    "main.js": "/AmazingQuotes/static/js/main.aa75baf5.js",
+    "main.js": "/AmazingQuotes/static/js/main.6c07e0b5.js",
     "index.html": "/AmazingQuotes/index.html",
     "main.ae5f2267.css.map": "/AmazingQuotes/static/css/main.ae5f2267.css.map",
-    "main.aa75baf5.js.map": "/AmazingQuotes/static/js/main.aa75baf5.js.map"
+    "main.6c07e0b5.js.map": "/AmazingQuotes/static/js/main.6c07e0b5.js.map"
   },
   "entrypoints": [
     "static/css/main.ae5f2267.css",
-    "static/js/main.aa75baf5.js"
+    "static/js/main.6c07e0b5.js"
   ]
 }
